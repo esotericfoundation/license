@@ -12,35 +12,34 @@ terms and conditions, or any related information. The Esoteric Foundation
 disclaims all liability for damages resulting from their use to the
 fullest extent possible.
 
-Using Esoteric Foundation Public Licenses
+Using The Esoteric Foundation Public License
 
-Esoteric Foundation public licenses provide a standard set of terms and
+The Esoteric Foundation public license provides a standard set of terms and
 conditions that creators and other rights holders may use to share
 original works of authorship and other material subject to copyright
 and certain other rights specified in the public license below. The
 following considerations are for informational purposes only, are not
 exhaustive, and do not form part of our licenses.
 
-     Considerations for licensors: Our public licenses are
+     Considerations for licensors: Our public license is
      intended for use by those authorized to give the public
      permission to use material in ways otherwise restricted by
-     copyright and certain other rights. Our licenses are
+     copyright and certain other rights. Our license is
      irrevocable. Licensors should read and understand the terms
      and conditions of the license they choose before applying it.
      Licensors should also secure all rights necessary before
      applying our licenses so that the public can reuse the
      material as expected. Licensors should clearly mark any
-     material not subject to the license. This includes other CC-
-     licensed material, or material used under an exception or
-     limitation to copyright.
+     material not subject to the license. This includes material
+     used under an exception or limitation to copyright.
 
-     Considerations for the public: By using one of our public
-     licenses, a licensor grants the public permission to use the
+     Considerations for the public: By using our public
+     license, a licensor grants the public permission to use the
      licensed material under specified terms and conditions. If
      the licensor's permission is not necessary for any reason--for
      example, because of any applicable exception or limitation to
      copyright--then that use is not regulated by the license. Our
-     licenses grant only permissions under copyright and certain
+     license grants only permissions under copyright and certain
      other rights that a licensor has authority to grant. Use of
      the licensed material may still be restricted for other
      reasons, including because others have copyright or other
