@@ -9,6 +9,9 @@ and does not form part of the Public License itself.
 
 Please read and understand the entire Public License.
 
+This Public License is a modified version of the CC BY-NC-SA 4.0
+license, which can be found here: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en.
+
 You may:
 
   a. Use this project for NonCommercial purposes, provided
