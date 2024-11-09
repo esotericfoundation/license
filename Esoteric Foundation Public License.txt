@@ -408,4 +408,4 @@ its Public License to material it publishes and in those instances
 will be considered the “Licensor.” The text of the Esoteric Foundation
 Public License is licensed under the Esoteric Foundation Public License.
 
-Esoteric Foundation may be contacted at https://www.github.com/EsotericFoundation.
+The Esoteric Foundation may be contacted at https://www.github.com/EsotericFoundation.
