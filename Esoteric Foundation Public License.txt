@@ -404,7 +404,7 @@ Section 8 -- Interpretation.
 =======================================================================
 
 The Esoteric Foundation is not a party to its Public
-License. Notwithstanding, Esoteric Foundation may elect to apply
+License. Notwithstanding, the Esoteric Foundation may elect to apply
 its Public License to material it publishes and in those instances
 will be considered the “Licensor.” The text of the Esoteric Foundation
 Public License is licensed under the Esoteric Foundation Public License.
