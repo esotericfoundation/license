@@ -283,7 +283,7 @@ following conditions.
                with the Licensed Material:
 
                  i. identification of, and (to the extent reasonably
-                    practicable) the URI or hyperlink to, the creator(s)
+                    practicable) the URI(s) or hyperlink(s) to, the creator(s)
                     of the Licensed Material and any others designated to
                     receive attribution, in any reasonable manner requested
                     by the Licensor (including by pseudonym if designated);
