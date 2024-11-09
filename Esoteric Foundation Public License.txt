@@ -2,8 +2,8 @@ Esoteric Foundation Public License 0.1.0
 
 =======================================================================
 
-The Esoteric Foundation organisation ("Esoteric Foundation") is not a law firm and
-does not provide legal services or legal advice. Distribution of
+The Esoteric Foundation organisation ("Esoteric Foundation") is not a law firm
+and does not provide legal services or legal advice. Distribution of
 Esoteric Foundation licenses does not create a lawyer-client or
 other relationship. The Esoteric Foundation makes its licenses and related
 information available on an "as-is" basis. The Esoteric Foundation gives no
