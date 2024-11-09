@@ -2,6 +2,55 @@ Esoteric Foundation Public License 0.4.0
 
 =======================================================================
 
+Summary
+
+Note that the text below is only a summary of the Public License,
+and does not form part of the Public License itself.
+
+Please read and understand the entire Public License.
+
+You may:
+
+  a. Use this project for NonCommercial purposes, provided
+     that you:
+
+       1. Give appropriate credit, as is defined in the
+          Public License below.
+
+  b. Create and distribute Adapted Material, provided
+     that you:
+
+       1. Give appropriate credit, as is defined in the
+          Public License below.
+
+       2. Provide users of Your Adapted Material a link to all
+          files involved in the creation of the Adapted Material.
+
+       3. Refer to the Adapted Material with a name that is distinct
+          from the name of the Licensed Material.
+
+       4. Use the Esoteric Foundation Public License (this version or later)
+          as the Adapter's License.
+
+You may not:
+
+  a. Use this project for any kind of commercial purposes.
+
+  b. Use this project without giving appropriate credit,
+     as is defined in the Public License below.
+
+  c. Create Adapted Material without giving users of the
+     Adapted Material access to the files involved in creating
+     the Adapted Material.
+
+  d. Create Adapted Material where the Adapter's License is
+     not the Esoteric Foundation Public License.
+
+  e. Create Adapted Material with the same name as the
+     Licensed Material.
+
+=======================================================================
+
 The Esoteric Foundation organisation ("Esoteric Foundation") is not a law firm
 and does not provide legal services or legal advice. Distribution of
 Esoteric Foundation licenses does not create a lawyer-client or
