@@ -6,4 +6,4 @@ This branch contains our public license, which is designed to give everyone cert
 
 ## Information
 
-Our public license is a modified version of the CC BY-NC-SA 4.0 license. You can see all changes [here](https://github.com/EsotericFoundation/license/compare/0.0.1...public).
+Our public license is a modified version of the [CC BY-NC-SA 4.0 license](./assets/text/licenses/CC%20BY-NC-SA%204.0.txt). You can see all changes [here](https://github.com/EsotericFoundation/license/compare/0.0.1...public).
