@@ -405,7 +405,7 @@ Section 8 -- Interpretation.
 The Esoteric Foundation is not a party to its Public License.
 Notwithstanding, the Esoteric Foundation may elect to apply
 its Public License to material it publishes and in those instances
-will be considered the "Licensor." The text of the Esoteric Foundation
+will be considered the "Licensor". The text of the Esoteric Foundation
 Public License is licensed under the Esoteric Foundation Public License.
 
 The Esoteric Foundation may be contacted at https://www.github.com/EsotericFoundation.
