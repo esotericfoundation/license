@@ -14,14 +14,14 @@ fullest extent possible.
 
 Using The Esoteric Foundation Public License
 
-The Esoteric Foundation public license provides a standard set of terms and
+The Esoteric Foundation Public License provides a standard set of terms and
 conditions that creators and other rights holders may use to share
 original works of authorship and other material subject to copyright
-and certain other rights specified in the public license below. The
+and certain other rights specified in the Public License below. The
 following considerations are for informational purposes only, are not
 exhaustive, and do not form part of our licenses.
 
-     Considerations for licensors: Our public license is
+     Considerations for licensors: Our Public License is
      intended for use by those authorized to give the public
      permission to use material in ways otherwise restricted by
      copyright and certain other rights. Our license is
@@ -33,8 +33,8 @@ exhaustive, and do not form part of our licenses.
      material not subject to the license. This includes material
      used under an exception or limitation to copyright.
 
-     Considerations for the public: By using our public
-     license, a licensor grants the public permission to use the
+     Considerations for the public: By using our Public
+     License, a licensor grants the public permission to use the
      licensed material under specified terms and conditions. If
      the licensor's permission is not necessary for any reason--for
      example, because of any applicable exception or limitation to
@@ -403,10 +403,10 @@ Section 8 -- Interpretation.
 
 =======================================================================
 
-The Esoteric Foundation is not a party to its public
-license. Notwithstanding, Esoteric Foundation may elect to apply one of
-its public licenses to material it publishes and in those instances
+The Esoteric Foundation is not a party to its Public
+License. Notwithstanding, Esoteric Foundation may elect to apply
+its Public License to material it publishes and in those instances
 will be considered the “Licensor.” The text of the Esoteric Foundation
-public license is licensed under the Esoteric Foundation Public License.
+Public License is licensed under the Esoteric Foundation Public License.
 
 Esoteric Foundation may be contacted at https://www.github.com/EsotericFoundation.
