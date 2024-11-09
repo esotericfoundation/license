@@ -157,7 +157,7 @@ Section 1 -- Definitions.
   h. Licensor means the individual(s) or entity(ies) granting rights
      under this Public License.
 
-  i. NonCommercial means not primarily intended for or directed towards
+  i. NonCommercial means not intended for and not directed towards
      commercial advantage or monetary compensation. For purposes of
      this Public License, the exchange of the Licensed Material for
      other material subject to Copyright and Similar Rights by digital
