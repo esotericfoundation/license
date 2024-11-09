@@ -288,6 +288,10 @@ following conditions.
           in any reasonable manner based on the medium, means, and
           context in which You Share Adapted Material.
 
+       5. The name you give to Your Adapted Material must not be the same as
+          the name of the Licensed Material. You must not refer to the Adapted
+          Material using the name of the Licensed Material.
+
 
 Section 4 -- Sui Generis Database Rights.
 
