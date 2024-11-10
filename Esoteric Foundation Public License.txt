@@ -22,7 +22,7 @@ You may:
        1. Give appropriate credit, as is defined in the
           Public License below.
 
-       2. Are using the project for NonCommercial purposes
+       2. Use the project for NonCommercial purposes
           only.
 
   b. Create and distribute Adapted Material, provided
