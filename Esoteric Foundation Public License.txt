@@ -28,7 +28,7 @@ You may:
        1. give appropriate Attribution, as is defined in the
           Public License below; and
 
-       2. use the Licensed Material for NonCommercial
+       2. use or Share the Licensed Material for NonCommercial
           purposes only.
 
   b. Create, use and Share Adapted Material, provided
@@ -46,7 +46,7 @@ You may:
        4. refer to the Adapted Material with a name that is distinct
           from the name of the Licensed Material; and
 
-       5. use the Adapted Material for NonCommercial purposes only.
+       5. create, use or Share the Adapted Material for NonCommercial purposes only.
 
 You may not:
 
