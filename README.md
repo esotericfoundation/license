@@ -10,4 +10,4 @@ Our Public License is a modified version of the [CC BY-NC-SA 4.0 license](./asse
 
 ## License
 
-The Esoteric Foundation Public License is licensed under the Esoteric Foundation Public License. In other words, it is licensed under itself.
+The text of the Esoteric Foundation Public License is licensed under the Esoteric Foundation Public License. In other words, it is licensed under itself.
