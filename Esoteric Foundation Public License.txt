@@ -17,11 +17,13 @@ seen here: https://github.com/EsotericFoundation/license/compare/0.0.1...public#
 
 You may:
 
-  a. Use this project for NonCommercial purposes, provided
-     that you:
+  a. Use this project, provided that you:
 
        1. Give appropriate credit, as is defined in the
           Public License below.
+
+       2. Are using the project for NonCommercial purposes
+          only.
 
   b. Create and distribute Adapted Material, provided
      that you:
