@@ -17,18 +17,18 @@ seen here: https://github.com/EsotericFoundation/license/compare/0.0.1...public#
 
 You may:
 
-  a. Use this project, provided that you:
+  a. Use the Licensed Material, provided that You:
 
-       1. give appropriate credit, as is defined in the
+       1. give appropriate Attribution, as is defined in the
           Public License below; and
 
-       2. use the project for NonCommercial purposes
-          only.
+       2. use the Licensed Material for NonCommercial
+          purposes only.
 
   b. Create and distribute Adapted Material, provided
-     that you:
+     that You:
 
-       1. give appropriate credit, as is defined in the
+       1. give appropriate Attribution, as is defined in the
           Public License below;
 
        2. provide users of Your Adapted Material a link to all
@@ -42,9 +42,9 @@ You may:
 
 You may not:
 
-  a. Use this project for any kind of commercial purposes.
+  a. Use the Licensed Material for any kind of commercial purposes.
 
-  b. Use this project without giving appropriate credit,
+  b. Use the Licensed Material without giving appropriate Attribution,
      as is defined in the Public License below.
 
   c. Create Adapted Material without giving users of the
