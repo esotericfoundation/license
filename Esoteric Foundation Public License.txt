@@ -19,25 +19,25 @@ You may:
 
   a. Use this project, provided that you:
 
-       1. Give appropriate credit, as is defined in the
-          Public License below.
+       1. give appropriate credit, as is defined in the
+          Public License below; and
 
-       2. Use the project for NonCommercial purposes
+       2. use the project for NonCommercial purposes
           only.
 
   b. Create and distribute Adapted Material, provided
      that you:
 
-       1. Give appropriate credit, as is defined in the
-          Public License below.
+       1. give appropriate credit, as is defined in the
+          Public License below;
 
-       2. Provide users of Your Adapted Material a link to all
-          files involved in the creation of the Adapted Material.
+       2. provide users of Your Adapted Material a link to all
+          files involved in the creation of the Adapted Material;
 
-       3. Refer to the Adapted Material with a name that is distinct
-          from the name of the Licensed Material.
+       3. refer to the Adapted Material with a name that is distinct
+          from the name of the Licensed Material; and
 
-       4. Use the Esoteric Foundation Public License (this version or later)
+       4. use the Esoteric Foundation Public License (this version or later)
           as the Adapter's License.
 
 You may not:
