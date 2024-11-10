@@ -62,7 +62,7 @@ You may not:
      in creating the Adapted Material.
 
   e. Create Adapted Material where the Adapter's License is
-     not the Public License.
+     not this Public License.
 
   f. Create Adapted Material where the Adapter's License is
      an earlier version of this Public License.
