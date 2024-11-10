@@ -59,13 +59,13 @@ You may not:
 
 The Esoteric Foundation organisation ("Esoteric Foundation") is not a law firm
 and does not provide legal services or legal advice. Distribution of
-Esoteric Foundation licenses does not create a lawyer-client or
-other relationship. The Esoteric Foundation makes its licenses and related
+the Esoteric Foundation license(s) does not create a lawyer-client or
+other relationship. The Esoteric Foundation makes its license(s) and related
 information available on an "as-is" basis. The Esoteric Foundation gives no
-warranties regarding its licenses, any material licensed under their
-terms and conditions, or any related information. The Esoteric Foundation
-disclaims all liability for damages resulting from their use to the
-fullest extent possible.
+warranties regarding its license(s), any material licensed under the
+terms and conditions of its license(s), or any related information.
+The Esoteric Foundation disclaims all liability for damages resulting
+from the use of its license(s) to the fullest extent possible.
 
 Using The Esoteric Foundation Public License
 
@@ -74,7 +74,7 @@ conditions that creators and other rights holders may use to share
 original works of authorship and other material subject to copyright
 and certain other rights specified in the Public License below. The
 following considerations are for informational purposes only, are not
-exhaustive, and do not form part of our licenses.
+exhaustive, and do not form part of our license(s).
 
      Considerations for licensors: Our Public License is
      intended for use by those authorized to give the public
@@ -83,7 +83,7 @@ exhaustive, and do not form part of our licenses.
      irrevocable. Licensors should read and understand the terms
      and conditions of the license they choose before applying it.
      Licensors should also secure all rights necessary before
-     applying our licenses so that the public can reuse the
+     applying our license(s) so that the public can reuse the
      material as expected. Licensors should clearly mark any
      material not subject to the license. This includes material
      used under an exception or limitation to copyright.
@@ -100,7 +100,7 @@ exhaustive, and do not form part of our licenses.
      reasons, including because others have copyright or other
      rights in the material. A licensor may make special requests,
      such as asking that all changes be marked or described.
-     Although not required by our licenses, you are encouraged to
+     Although not required by our license(s), you are encouraged to
      respect those requests where reasonable.
 
 =======================================================================
