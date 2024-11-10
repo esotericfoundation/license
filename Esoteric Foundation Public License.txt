@@ -42,6 +42,8 @@ You may:
        4. use this Public License (this version or later)
           as the Adapter's License.
 
+       5. use the Adapted Material for NonCommercial purposes only.
+
 You may not:
 
   a. Use the Licensed Material for any kind of commercial purposes.
