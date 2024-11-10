@@ -40,11 +40,11 @@ You may:
        2. Share a link to all files involved in the creation
           of the Adapted Material;
 
-       3. refer to the Adapted Material with a name that is distinct
-          from the name of the Licensed Material; and
-
-       4. use this Public License (this version or later)
+       3. use this Public License (this version or later)
           as the Adapter's License.
+
+       4. refer to the Adapted Material with a name that is distinct
+          from the name of the Licensed Material; and
 
        5. use the Adapted Material for NonCommercial purposes only.
 
@@ -61,14 +61,14 @@ You may not:
   d. Create Adapted Material and not Share files involved
      in creating the Adapted Material.
 
-  e. Create Adapted Material with the same name as the
-     Licensed Material.
-
-  f. Create Adapted Material where the Adapter's License is
+  e. Create Adapted Material where the Adapter's License is
      not the Public License.
 
-  g. Create Adapted Material where the Adapter's License is
+  f. Create Adapted Material where the Adapter's License is
      an earlier version of this Public License.
+
+  g. Create Adapted Material with the same name as the
+     Licensed Material.
 
   h. Create Adapted Material for any kind of commercial purposes.
 
