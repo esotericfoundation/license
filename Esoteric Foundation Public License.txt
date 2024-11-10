@@ -75,9 +75,9 @@ and does not provide legal services or legal advice. Distribution of
 this Public License does not create a lawyer-client or other relationship.
 The Esoteric Foundation makes its Public License and related information
 available on an "as-is" basis. The Esoteric Foundation gives no warranties
-regarding its Public License, any material licensed under its terms and conditions,
-or any related information. The Esoteric Foundation disclaims all liability for
-damages resulting from the use of its Public License to the fullest extent possible.
+regarding its Public License, any Licensed Material, or any related information.
+The Esoteric Foundation disclaims all liability for damages resulting from the
+use of its Public License to the fullest extent possible.
 
 Using The Esoteric Foundation Public License
 
