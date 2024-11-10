@@ -32,8 +32,8 @@ You may:
        1. give appropriate Attribution, as is defined in the
           Public License below;
 
-       2. provide users of Your Adapted Material a link to all
-          files involved in the creation of the Adapted Material;
+       2. provide the public a link to all files involved in
+          the creation of the Adapted Material;
 
        3. refer to the Adapted Material with a name that is distinct
           from the name of the Licensed Material; and
