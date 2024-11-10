@@ -66,6 +66,8 @@ You may not:
   g. Create Adapted Material where the Adapter's License is
      an earlier version of this Public License.
 
+  h. Create Adapted Material for any kind of commercial purposes.
+
 =======================================================================
 
 The Esoteric Foundation organisation ("Esoteric Foundation") is not a law firm
