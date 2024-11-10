@@ -71,8 +71,8 @@ You may not:
 =======================================================================
 
 The Esoteric Foundation organisation ("Esoteric Foundation") is not a law firm
-and does not provide legal services or legal advice. Distribution of
-this Public License does not create a lawyer-client or other relationship.
+and does not provide legal services or legal advice. Distribution of this
+Public License does not create a lawyer-client or other relationship.
 The Esoteric Foundation makes its Public License and related information
 available on an "as-is" basis. The Esoteric Foundation gives no warranties
 regarding its Public License, any Licensed Material, or any related information.
