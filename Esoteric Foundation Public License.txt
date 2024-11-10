@@ -47,9 +47,8 @@ You may not:
   b. Use the Licensed Material without giving appropriate Attribution,
      as is defined in the Public License below.
 
-  c. Create Adapted Material without giving users of the
-     Adapted Material access to the files involved in creating
-     the Adapted Material.
+  c. Create Adapted Material without giving the public access to the
+     files involved in creating the Adapted Material.
 
   d. Create Adapted Material where the Adapter's License is
      not the Esoteric Foundation Public License.
