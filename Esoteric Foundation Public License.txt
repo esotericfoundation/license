@@ -5,7 +5,7 @@ Esoteric Foundation Public License 1.0.1
 Summary
 
 Note that the points under "Esoteric Foundation Public License Summary"
-is only a summary of the Public License, and do not form part of the Public License itself.
+is only a summary of the Public License and do not form part of the Public License itself.
 
 Please read and understand the entire Public License.
 
