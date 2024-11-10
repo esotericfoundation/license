@@ -39,7 +39,7 @@ You may:
        3. refer to the Adapted Material with a name that is distinct
           from the name of the Licensed Material; and
 
-       4. use the Esoteric Foundation Public License (this version or later)
+       4. use this Public License (this version or later)
           as the Adapter's License.
 
 You may not:
@@ -53,7 +53,7 @@ You may not:
      in creating the Adapted Material.
 
   d. Create Adapted Material where the Adapter's License is
-     not the Esoteric Foundation Public License.
+     not the Public License.
 
   e. Create Adapted Material where the Adapter's License is
      an earlier version of this Public License.
