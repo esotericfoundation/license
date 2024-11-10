@@ -5,10 +5,10 @@ Esoteric Foundation Public License 1.0.2
 Summary
 
 This Public License is a modified version of the CC BY-NC-SA 4.0
-license, which can be found here: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en.
+license, which can be found here: https://www.creativecommons.org/licenses/by-nc-sa/4.0/deed.en.
 
 The modifications made to the CC BY-NC-SA 4.0 license can be
-seen here: https://github.com/EsotericFoundation/license/compare/0.0.1...public#diff-75c30852efd747a5855f85114831a9ef578c14ab2eed788829c7c8651b9579f2.
+seen here: https://www.github.com/EsotericFoundation/license/compare/0.0.1...public#diff-75c30852efd747a5855f85114831a9ef578c14ab2eed788829c7c8651b9579f2.
 
 Note that the points under "Esoteric Foundation Public License Summary"
 is only a summary of the Public License and do not form part of the Public License itself.
