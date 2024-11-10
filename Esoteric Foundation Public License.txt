@@ -26,14 +26,14 @@ You may:
        2. use the Licensed Material for NonCommercial
           purposes only.
 
-  b. Create and distribute Adapted Material, provided
+  b. Create and Share Adapted Material, provided
      that You:
 
        1. give appropriate Attribution, as is defined in the
           Public License below;
 
-       2. provide the public a link to all files involved in
-          the creation of the Adapted Material;
+       2. Share a link to all files involved in the creation
+          of the Adapted Material;
 
        3. refer to the Adapted Material with a name that is distinct
           from the name of the Licensed Material; and
@@ -48,8 +48,8 @@ You may not:
   b. Use the Licensed Material without giving appropriate Attribution,
      as is defined in the Public License below.
 
-  c. Create Adapted Material without giving the public access to the
-     files involved in creating the Adapted Material.
+  c. Create Adapted Material and not Share files involved
+     in creating the Adapted Material.
 
   d. Create Adapted Material where the Adapter's License is
      not the Esoteric Foundation Public License.
