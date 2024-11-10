@@ -55,7 +55,10 @@ You may not:
   d. Create Adapted Material where the Adapter's License is
      not the Esoteric Foundation Public License.
 
-  e. Create Adapted Material with the same name as the
+  e. Create Adapted Material where the Adapter's License is
+     an earlier version of this Public License.
+
+  f. Create Adapted Material with the same name as the
      Licensed Material.
 
 =======================================================================
