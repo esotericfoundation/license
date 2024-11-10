@@ -1,4 +1,4 @@
-Esoteric Foundation Public License 1.0.2
+Esoteric Foundation Public License 1.0.3
 
 =======================================================================
 
@@ -41,7 +41,7 @@ You may:
           of the Adapted Material;
 
        3. use this Public License (this version or later)
-          as the Adapter's License.
+          as the Adapter's License (Your license).
 
        4. refer to the Adapted Material with a name that is distinct
           from the name of the Licensed Material; and
@@ -61,11 +61,11 @@ You may not:
   d. Create, use or Share Adapted Material and not Share files involved
      in creating the Adapted Material.
 
-  e. Create, use or Share Adapted Material where the Adapter's License is
-     not this Public License.
+  e. Create, use or Share Adapted Material where the
+     Adapter's License (Your license) is not this Public License.
 
-  f. Create, use or Share Adapted Material where the Adapter's License is
-     an earlier version of this Public License.
+  f. Create, use or Share Adapted Material where the
+     Adapter's License (Your license) is an earlier version of this Public License.
 
   g. Create, use or Share Adapted Material with the same name as the
      Licensed Material.
