@@ -4,8 +4,9 @@ Esoteric Foundation Public License 1.0.0
 
 Summary
 
-Note that the text below is only a summary of the Public License,
-and does not form part of the Public License itself.
+Note that the points below under "You may" and "You may not"
+is only a summary of the Public License, and does not form
+part of the Public License itself.
 
 Please read and understand the entire Public License.
 
