@@ -91,26 +91,26 @@ exhaustive, and do not form part of our Public License.
      Considerations for licensors: Our Public License is
      intended for use by those authorized to give the public
      permission to use material in ways otherwise restricted by
-     copyright and certain other rights. Our license is
+     copyright and certain other rights. Our Public License is
      irrevocable. Licensors should read and understand the terms
      and conditions of the Public License before applying it.
      Licensors should also secure all rights necessary before
      applying our Public License so that the public can reuse the
      material as expected. Licensors should clearly mark any
      material not subject to the Public License. This includes material
-     used under an exception or limitation to copyright.
+     used under an Exception or Limitation to copyright.
 
      Considerations for the public: By using our Public
-     License, a licensor grants the public permission to use the
-     licensed material under specified terms and conditions. If
-     the licensor's permission is not necessary for any reason--for
-     example, because of any applicable exception or limitation to
-     copyright--then that use is not regulated by the license. Our
-     license grants only permissions under copyright and certain
-     other rights that a licensor has authority to grant. Use of
-     the licensed material may still be restricted for other
+     License, a Licensor grants the public permission to use the
+     Licensed Material under specified terms and conditions. If
+     the Licensor's permission is not necessary for any reason--for
+     example, because of any applicable Exception or Limitation to
+     copyright--then that use is not regulated by the Public License.
+     Our Public License grants only permissions under copyright and certain
+     other rights that a Licensor has authority to grant. Use of
+     the Licensed Material may still be restricted for other
      reasons, including because others have copyright or other
-     rights in the material. A licensor may make special requests,
+     rights in the material. A Licensor may make special requests,
      such as asking that all changes be marked or described.
      Although not required by our Public License, you are encouraged to
      respect those requests where reasonable.
