@@ -345,24 +345,24 @@ following conditions.
      In addition to the conditions in Section 3(a), if You Share
      Adapted Material You produce, the following conditions also apply.
 
-       1. The Adapter's License You apply must be the Esoteric Foundation
-          Public License, this version or later.
-
-       2. You must include the text of, or the URI or hyperlink to, the
-          Adapter's License You apply. You may satisfy this condition
-          in any reasonable manner based on the medium, means, and
-          context in which You Share Adapted Material.
-
-       3. You may not offer or impose any additional or different terms
-          or conditions on, or apply any Effective Technological
-          Measures to, Adapted Material that restrict exercise of the
-          rights granted under the Adapter's License You apply.
-
-       4. You must include the URI or hyperlink to any files involved in
+       1. You must include the URI or hyperlink to any files involved in
           the creation of the Adapted Material, preferably in the form of
           a Git repository, and ideally in the form of a GitHub repository.
           You may satisfy this condition in any reasonable manner based on
           the medium, means, and context in which You Share Adapted Material.
+
+       2. The Adapter's License You apply must be the Esoteric Foundation
+          Public License, this version or later.
+
+       3. You must include the text of, or the URI or hyperlink to, the
+          Adapter's License You apply. You may satisfy this condition
+          in any reasonable manner based on the medium, means, and
+          context in which You Share Adapted Material.
+
+       4. You may not offer or impose any additional or different terms
+          or conditions on, or apply any Effective Technological
+          Measures to, Adapted Material that restrict exercise of the
+          rights granted under the Adapter's License You apply.
 
        5. You must not use the same name as the Licensed Material for
           Your Adapted Material. You must not refer to the Adapted
