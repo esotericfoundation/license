@@ -8,8 +8,9 @@ This Public License is a modified version of the CC BY-NC-SA 4.0
 license, which can be found here: https://www.creativecommons.org/licenses/by-nc-sa/4.0/deed.en.
 
 The main difference between this Public License and the CC BY-NC-SA 4.0 license
-is the requirement to Share all files involved in the creation of Adapted Material, in
-other words, a requirement for Adapted Material to be 'open source'.
+is the requirement to Share all files involved in the creation of Adapted Material,
+preferably in the form of a Git repository, and ideally in the form of a GitHub repository,
+in other words, a requirement for Adapted Material to be 'open source'.
 
 All differences between this Public License and the CC BY-NC-SA 4.0 license can be
 seen here: https://www.github.com/EsotericFoundation/license/compare/0.0.1...main#diff-75c30852efd747a5855f85114831a9ef578c14ab2eed788829c7c8651b9579f2.
@@ -38,7 +39,8 @@ You may:
           Public License below;
 
        2. Share a link to all files involved in the creation
-          of the Adapted Material;
+          of the Adapted Material, preferably in the form of a Git
+          repository, and ideally in the form of a GitHub repository;
 
        3. use this Public License (this version or later)
           as the Adapter's License (Your license).
@@ -317,8 +319,10 @@ following conditions.
                 iv. a notice that refers to the disclaimer of
                     warranties;
 
-                 v. a URI or hyperlink to the Licensed Material to the
-                    extent reasonably practicable;
+                 v. a URI or hyperlink to the Licensed Material,
+                    preferably in the form of a Git repository,
+                    and ideally in the form of a GitHub repository,
+                    to the extent reasonably practicable;
 
             b. indicate if You modified the Licensed Material and
                retain an indication of any previous modifications; and
@@ -357,9 +361,10 @@ following conditions.
           rights granted under the Adapter's License You apply.
 
        4. You must include the URI or hyperlink to any files involved in
-          the creation of the Adapted Material. You may satisfy this condition
-          in any reasonable manner based on the medium, means, and
-          context in which You Share Adapted Material.
+          the creation of the Adapted Material, preferably in the form of
+          a Git repository, and ideally in the form of a GitHub repository.
+          You may satisfy this condition in any reasonable manner based on
+          the medium, means, and context in which You Share Adapted Material.
 
        5. You must not use the same name as the Licensed Material for
           Your Adapted Material. You must not refer to the Adapted
