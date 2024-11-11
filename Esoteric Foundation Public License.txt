@@ -367,8 +367,8 @@ following conditions.
 
        5. You may not use the exact same name as the Licensed Material for
           Your Adapted Material. You may not refer to the Adapted Material
-          using the exact name of the Licensed Material. Using variations
-          of the name of the Licensed Material is acceptable and even encouraged.
+          using the exact name of the Licensed Material. Using variations of
+          the name of the Licensed Material is acceptable and even encouraged.
 
 
 Section 4 -- Sui Generis Database Rights.
