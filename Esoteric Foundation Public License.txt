@@ -314,15 +314,15 @@ following conditions.
 
                 ii. a copyright notice;
 
-               iii. a notice that refers to this Public License;
-
-                iv. a notice that refers to the disclaimer of
-                    warranties;
-
-                 v. a URI or hyperlink to the Licensed Material,
+               iii. a URI or hyperlink to the Licensed Material,
                     preferably in the form of a Git repository,
                     and ideally in the form of a GitHub repository,
                     to the extent reasonably practicable;
+
+                iv. a notice that refers to this Public License;
+
+                 v. a notice that refers to the disclaimer of
+                    warranties;
 
             b. indicate if You modified the Licensed Material and
                retain an indication of any previous modifications; and
