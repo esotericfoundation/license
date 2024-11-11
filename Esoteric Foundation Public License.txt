@@ -8,7 +8,7 @@ This Public License is a modified version of the CC BY-NC-SA 4.0
 license, which can be found here: https://www.creativecommons.org/licenses/by-nc-sa/4.0/deed.en.
 
 The main difference between this Public License and the CC BY-NC-SA 4.0 license
-is the requirement to Share all files involved in creation of Adapted Material, in
+is the requirement to Share all files involved in the creation of Adapted Material, in
 other words, a requirement for Adapted Material to be 'open source'.
 
 All differences between this Public License and the CC BY-NC-SA 4.0 license can be
@@ -59,7 +59,7 @@ You may not:
      as is defined in the Public License below.
 
   d. Create, use or Share Adapted Material and not Share files involved
-     in creating the Adapted Material.
+     in the creation the Adapted Material.
 
   e. Create, use or Share Adapted Material where the
      Adapter's License (Your license) is not this Public License.
