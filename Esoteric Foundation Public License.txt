@@ -365,8 +365,8 @@ following conditions.
           Measures to, Adapted Material that restrict exercise of the
           rights granted under the Adapter's License You apply.
 
-       5. You must not use the exact same name as the Licensed Material for
-          Your Adapted Material. You must not refer to the Adapted Material
+       5. You may not use the exact same name as the Licensed Material for
+          Your Adapted Material. You may not refer to the Adapted Material
           using the exact name of the Licensed Material. Using slight variations
           of the name of the Licensed Material is acceptable and even encouraged.
 
