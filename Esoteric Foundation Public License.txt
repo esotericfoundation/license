@@ -1,4 +1,4 @@
-Esoteric Foundation Public License 1.0.3
+Esoteric Foundation Public License 1.0.4
 
 =======================================================================
 
