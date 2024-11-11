@@ -314,9 +314,7 @@ following conditions.
 
                 ii. a copyright notice;
 
-               iii. a URI or hyperlink to the Licensed Material,
-                    preferably in the form of a Git repository,
-                    and ideally in the form of a GitHub repository,
+               iii. a URI or hyperlink to the Licensed Material
                     to the extent reasonably practicable;
 
                 iv. a notice that refers to this Public License;
