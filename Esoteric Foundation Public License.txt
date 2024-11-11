@@ -46,7 +46,8 @@ You may:
           as the Adapter's License (Your license);
 
        4. refer to the Adapted Material with a name that is distinct
-          from the name of the Licensed Material; and
+          from the name of the Licensed Material, but may include recognizable
+          variations of, the name of the Licensed Material (which is encouraged); and
 
        5. produce, use or Share the Adapted Material for NonCommercial purposes only.
 
@@ -69,7 +70,7 @@ You may not:
   f. Produce, use or Share Adapted Material where the
      Adapter's License (Your license) is an earlier version of this Public License.
 
-  g. Produce, use or Share Adapted Material with the same name as the
+  g. Produce, use or Share Adapted Material with the exact same name as the
      Licensed Material.
 
   h. Produce, use or Share Adapted Material for any kind of commercial purposes.
@@ -364,9 +365,10 @@ following conditions.
           Measures to, Adapted Material that restrict exercise of the
           rights granted under the Adapter's License You apply.
 
-       5. You must not use the same name as the Licensed Material for
-          Your Adapted Material. You must not refer to the Adapted
-          Material using the name of the Licensed Material.
+       5. You must not use the exact same name as the Licensed Material for
+          Your Adapted Material. You must not refer to the Adapted Material
+          using the exact name of the Licensed Material. Using slight variations
+          of the name of the Licensed Material is acceptable and even encouraged.
 
 
 Section 4 -- Sui Generis Database Rights.
