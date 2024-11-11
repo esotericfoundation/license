@@ -5,7 +5,7 @@ Esoteric Foundation Public License 1.0.4
 Summary
 
 This Public License is a modified version of the CC BY-NC-SA 4.0
-license, which can be found here: https://www.creativecommons.org/licenses/by-nc-sa/4.0/deed.en.
+license, which can be found here: https://www.creativecommons.org/licenses/by-nc-sa/4.0/deed.en
 
 The main difference between this Public License and the CC BY-NC-SA 4.0 license
 is the requirement to Share all files involved in the creation of Adapted Material,
@@ -14,7 +14,7 @@ in other words, a requirement for Adapted Material to be 'open source'.
 
 All differences between this Public License and the CC BY-NC-SA 4.0 license can be
 seen here:
-https://www.github.com/EsotericFoundation/license/compare/0.0.1...main.
+https://www.github.com/EsotericFoundation/license/compare/0.0.1...main
 
 Note that the points under "Esoteric Foundation Public License Summary"
 is only a summary of the Public License and do not form part of the Public License itself.
