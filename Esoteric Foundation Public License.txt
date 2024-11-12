@@ -104,7 +104,7 @@ Licensed Material, or any related information. The Esoteric Foundation
 disclaims all liability for damages resulting from the use of its
 Public License to the fullest extent possible.
 
-Using The Esoteric Foundation Public License
+Using the Esoteric Foundation Public License
 
 The Esoteric Foundation Public License provides a standard set of terms
 and conditions that creators and other rights holders may use to share
