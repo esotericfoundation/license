@@ -1,4 +1,4 @@
-const { readFileSync, writeFileSync } = require("fs")
+const { readFileSync, writeFileSync } = require("fs");
 const { wrapText } = require("esoteric-utility");
 
 const licenseText = readFileSync("Esoteric Foundation Public License.txt").toString();
