@@ -1,4 +1,4 @@
-Esoteric Foundation Public License 1.0.8
+Esoteric Foundation Public License 1.0.9
 
 Copyright (C) 2024 Esoteric Foundation
 <https://www.github.com/EsotericFoundation>
