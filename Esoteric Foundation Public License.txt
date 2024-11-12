@@ -37,25 +37,27 @@ You may:
        2. use or Share the Licensed Material for NonCommercial purposes
           only.
 
-  b. Produce, use and Share Adapted Material, provided that You:
+  b. Produce, use and Share Adapted Material, provided that:
 
-       1. give appropriate Attribution, as defined in the Public
+       1. You give appropriate Attribution, as defined in the Public
           License below;
 
-       2. Share a link to all files involved in the creation of the
-          Adapted Material, preferably in the form of a Git repository,
-          and ideally in the form of a GitHub repository, and if
-          applicable, as a fork of the Licensed Material;
+       2. If you produce Adapted Material, You:
 
-       3. use this Public License (this version or later) as the
-          Adapter's License (Your license);
+             a. Share a link to all files involved in the creation of the
+                Adapted Material, preferably in the form of a Git repository,
+                and ideally in the form of a GitHub repository, and if
+                applicable, as a fork of the Licensed Material;
 
-       4. refer to the Adapted Material with a name that is distinct
+             b. use this Public License (this version or later) as the
+                Adapter's License (Your license);
+
+       4. You refer to the Adapted Material with a name that is distinct
           from the name of the Licensed Material, but may include
           recognizable variations of, the name of the Licensed Material
           (which is encouraged); and
 
-       5. produce, use or Share the Adapted Material for NonCommercial
+       5. You produce, use or Share the Adapted Material for NonCommercial
           purposes only.
 
 You may not:
