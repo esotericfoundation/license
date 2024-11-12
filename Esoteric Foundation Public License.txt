@@ -1,4 +1,4 @@
-Esoteric Foundation Public License 1.0.6
+Esoteric Foundation Public License 1.0.7
 
 =======================================================================
 
@@ -12,8 +12,8 @@ The main difference between this Public License and the CC BY-NC-SA 4.0
 license is the requirement to Share all files involved in the creation
 of Adapted Material, preferably in the form of a Git repository, and
 ideally in the form of a GitHub repository, and if applicable, as a
-fork of the Licensed Material, in other words, a requirement for Adapted
-Material to be 'open source'.
+fork of the Licensed Material, in other words, a requirement for
+Adapted Material to be 'open source'.
 
 All differences between this Public License and the CC BY-NC-SA 4.0
 license can be seen here:
