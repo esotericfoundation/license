@@ -1,4 +1,9 @@
 {
+  "scripts": {
+    "installDependencies": "npm i",
+    "formatLicenses": "node ./scripts/formatLicense.js",
+    "format": "npm run installDependencies && npm run formatLicenses"
+  },
   "dependencies": {
     "esoteric-utility": "0.0.5"
   }
