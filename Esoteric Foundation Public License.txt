@@ -54,12 +54,12 @@ You may:
             b. use this Public License (this version or later) as the
                Adapter's License (Your license);
 
-       4. You refer to the Adapted Material with a name that is
-          distinct from the name of the Licensed Material, but may
-          include recognizable variations of, the name of the Licensed
-          Material (which is encouraged); and
+            c. refer to the Adapted Material with a name that is
+               distinct from the name of the Licensed Material, but may
+               include recognizable variations of, the name of the Licensed
+               Material (which is encouraged); and
 
-       5. You produce, use or Share the Adapted Material for
+       3. You produce, use or Share the Adapted Material for
           NonCommercial purposes only.
 
 You may not:
@@ -73,17 +73,17 @@ You may not:
   c. Produce, use or Share Adapted Material without giving appropriate
      Attribution, as defined in the Public License below.
 
-  d. Produce, use or Share Adapted Material and not Share files
+  d. Produce Adapted Material and not Share files
      involved in the creation of the Adapted Material, in other words,
      make the Adapted Material 'closed source'.
 
-  e. Produce, use or Share Adapted Material where the Adapter's License
+  e. Produce Adapted Material where the Adapter's License
      (Your license) is not this Public License.
 
-  f. Produce, use or Share Adapted Material where the Adapter's License
+  f. Produce Adapted Material where the Adapter's License
      (Your license) is an earlier version of this Public License.
 
-  g. Produce, use or Share Adapted Material with the exact same name as
+  g. Produce Adapted Material with the exact same name as
      the Licensed Material.
 
   h. Produce, use or Share Adapted Material for any kind of commercial
