@@ -42,7 +42,7 @@ You may:
        1. You give appropriate Attribution, as defined in the Public
           License below;
 
-       2. If you produce Adapted Material, You:
+       2. If You produce Adapted Material, You:
 
             a. Share a link to all files involved in the creation of
                the Adapted Material, preferably in the form of a Git
