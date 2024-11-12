@@ -509,6 +509,27 @@ Section 8 -- Interpretation.
 
 =======================================================================
 
+How to Apply This Public License to Your Work
+
+     Include a copy of the Public License in Your Work. If applicable,
+     in a file, typically called LICENSE.
+
+     Attach the following notice to the Licensed Material. If
+     applicable, in a file, typically called README or README.md, with
+     the fields enclosed by square brackets "[]" replaced with your own
+     identifying information (don't include the brackets).
+
+     [Name of the Licensed Material] (the "Licensed Material")
+     Copyright (C) [year] by [name of copyright owner] (the "Licensor")
+     is licensed under the Esoteric Foundation Public License 1.0.9
+     (the "Public License").
+
+     You may not use this Licensed Material except in compliance with
+     the Public License. You may obtain a copy of the Public License at
+     https://www.github.com/EsotericFoundation/license.
+
+=======================================================================
+
 The Esoteric Foundation is not a party to its Public License.
 Notwithstanding, the Esoteric Foundation may elect to apply its Public
 License to material it publishes and in those instances will be
