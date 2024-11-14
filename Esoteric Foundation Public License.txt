@@ -1,7 +1,6 @@
 Esoteric Foundation Public License 1.0.10
 
-Copyright (C) 2024 Esoteric Foundation
-<https://www.github.com/EsotericFoundation>
+Copyright (C) 2024 Esoteric Foundation <https://esoteric.foundation>
 
 =======================================================================
 
@@ -526,7 +525,7 @@ How to Apply This Public License to Your Work
 
      You may not use this Licensed Material except in compliance with
      the Public License. You may obtain a copy of the Public License at
-     https://www.github.com/EsotericFoundation/license.
+     https://esoteric.foundation/license.
 
 =======================================================================
 
@@ -537,4 +536,4 @@ considered the "Licensor". The text of the Esoteric Foundation Public
 License is licensed under the Esoteric Foundation Public License.
 
 The Esoteric Foundation may be contacted at
-https://www.github.com/EsotericFoundation.
+https://esoteric.foundation.
