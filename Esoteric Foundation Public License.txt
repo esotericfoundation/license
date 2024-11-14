@@ -295,10 +295,7 @@ Section 2 -- Scope.
           Rights, whether directly or through a collecting society
           under any voluntary or waivable statutory or compulsory
           licensing scheme. In all other cases the Licensor expressly
-          reserves any right to collect such royalties, including when
-          the Licensed Material is used other than for NonCommercial
-          purposes.
-
+          reserves any right to collect such royalties.
 
 Section 3 -- License Conditions.
 
