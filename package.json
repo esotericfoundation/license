@@ -6,5 +6,6 @@
   },
   "dependencies": {
     "esoteric-utility": "0.0.5"
-  }
+  },
+  "license": "EFPL"
 }
