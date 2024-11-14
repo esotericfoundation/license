@@ -18,7 +18,7 @@ Esoteric Foundation Public License Summary
 You may:
 
   a. Use and Share the Licensed Material, provided that You give
-     appropriate Attribution, as defined in the Public License below.
+     appropriate Attribution, as defined in the License below.
 
   b. Produce, use and Share Adapted Material, provided that:
 
@@ -34,7 +34,7 @@ You may:
                Material. In other words, the Adapted Material must be
                'open source';
 
-            b. use this Public License (this version or later) as the
+            b. use this License (this version or later) as the
                Adapter's License (Your license);
 
             c. refer to the Adapted Material with a name that is
@@ -45,20 +45,20 @@ You may:
 You may not:
 
   a. Use or Share the Licensed Material without giving appropriate
-     Attribution, as defined in the Public License below.
+     Attribution, as defined in the License below.
 
   b. Produce, use or Share Adapted Material without giving appropriate
-     Attribution, as defined in the Public License below.
+     Attribution, as defined in the License below.
 
   c. Produce Adapted Material and not Share files involved in the
      creation of the Adapted Material. In other words, make the Adapted
      Material 'closed source'.
 
   d. Produce Adapted Material where the Adapter's License (Your
-     license) is not this Public License.
+     license) is not this License.
 
   e. Produce Adapted Material where the Adapter's License (Your
-     license) is an earlier version of this Public License.
+     license) is an earlier version of this License.
 
   f. Produce Adapted Material with the exact same name as the Licensed
      Material.
@@ -67,46 +67,46 @@ You may not:
 
 The Esoteric Foundation organisation ("Esoteric Foundation") is not a
 law firm and does not provide legal services or legal advice.
-Distribution of this Public License does not create a lawyer-client or
-other relationship. The Esoteric Foundation makes its Public License
-and related information available on an "as-is" basis. The Esoteric
-Foundation gives no warranties regarding its Public License, any
-Licensed Material, or any related information. The Esoteric Foundation
-disclaims all liability for damages resulting from the use of its
-Public License to the fullest extent possible.
+Distribution of this License does not create a lawyer-client or other
+relationship. The Esoteric Foundation makes its License and related
+information available on an "as-is" basis. The Esoteric Foundation
+gives no warranties regarding its License, any Licensed Material, or
+any related information. The Esoteric Foundation disclaims all
+liability for damages resulting from the use of its License to the
+fullest extent possible.
 
 Using the Esoteric Foundation Public License
 
 The Esoteric Foundation Public License provides a standard set of terms
 and conditions that creators and other rights holders may use to share
 original works of authorship and other material subject to copyright
-and certain other rights specified in the Public License below. The
-following considerations are for informational purposes only, are not
-exhaustive, and do not form part of our Public License.
+and certain other rights specified in the License below. The following
+considerations are for informational purposes only, are not exhaustive,
+and do not form part of our License.
 
-     Considerations for licensors: Our Public License is intended for
-     use by those authorized to give the public permission to use
-     material in ways otherwise restricted by copyright and certain
-     other rights. Our Public License is irrevocable. Licensors should
-     read and understand the terms and conditions of the Public License
-     before applying it. Licensors should also secure all rights
-     necessary before applying our Public License so that the public
-     can reuse the material as expected. Licensors should clearly mark
-     any material not subject to the Public License. This includes
-     material used under an Exception or Limitation to copyright.
+     Considerations for licensors: Our License is intended for use by
+     those authorized to give the public permission to use material in
+     ways otherwise restricted by copyright and certain other rights.
+     Our License is irrevocable. Licensors should read and understand
+     the terms and conditions of the License before applying it.
+     Licensors should also secure all rights necessary before applying
+     our License so that the public can reuse the material as expected.
+     Licensors should clearly mark any material not subject to the
+     License. This includes material used under an Exception or
+     Limitation to copyright.
 
-     Considerations for the public: By using our Public License, a
-     Licensor grants the public permission to use the Licensed Material
-     under specified terms and conditions. If the Licensor's permission
-     is not necessary for any reason--for example, because of any
+     Considerations for the public: By using our License, a Licensor
+     grants the public permission to use the Licensed Material under
+     specified terms and conditions. If the Licensor's permission is
+     not necessary for any reason--for example, because of any
      applicable Exception or Limitation to copyright--then that use is
-     not regulated by the Public License. Our Public License grants
-     only permissions under copyright and certain other rights that a
-     Licensor has authority to grant. Use of the Licensed Material may
-     still be restricted for other reasons, including because others
-     have copyright or other rights in the material. A Licensor may
-     make special requests, such as asking that all changes be marked
-     or described. Although not required by our Public License, you are
+     not regulated by the License. Our License grants only permissions
+     under copyright and certain other rights that a Licensor has
+     authority to grant. Use of the Licensed Material may still be
+     restricted for other reasons, including because others have
+     copyright or other rights in the material. A Licensor may make
+     special requests, such as asking that all changes be marked or
+     described. Although not required by our License, you are
      encouraged to respect those requests where reasonable.
 
 =======================================================================
@@ -115,12 +115,12 @@ Esoteric Foundation Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree
 to be bound by the terms and conditions of the Esoteric Foundation
-Public License ("Public License"). To the extent that the Public
-License may be interpreted as a contract, You are granted the Licensed
-Rights in consideration of Your acceptance of these terms and
-conditions, and the Licensor grants You such rights in consideration of
-benefits the Licensor receives from making the Licensed Material
-available under these terms and conditions.
+Public License ("License"). To the extent that the Public License may
+be interpreted as a contract, You are granted the Licensed Rights in
+consideration of Your acceptance of these terms and conditions, and the
+Licensor grants You such rights in consideration of benefits the
+Licensor receives from making the Licensed Material available under
+these terms and conditions.
 
 
 Section 1 -- Definitions.
@@ -130,22 +130,21 @@ Section 1 -- Definitions.
      in which the Licensed Material is translated, altered, arranged,
      transformed, or otherwise modified or interacted with in a manner
      requiring permission under the Copyright and Similar Rights held
-     by the Licensor. For purposes of this Public License, where the
-     Licensed Material is a musical work, performance, or sound
-     recording, Adapted Material is always produced where the Licensed
-     Material is synched in timed relation with a moving image.
+     by the Licensor. For purposes of this License, where the Licensed
+     Material is a musical work, performance, or sound recording,
+     Adapted Material is always produced where the Licensed Material is
+     synched in timed relation with a moving image.
 
   b. Adapter's License means the license You apply to Your Copyright
      and Similar Rights in Your contributions to Adapted Material in
-     accordance with the terms and conditions of this Public License.
+     accordance with the terms and conditions of this License.
 
   c. Copyright and Similar Rights means copyright and/or similar rights
      closely related to copyright including, without limitation,
      performance, broadcast, sound recording, and Sui Generis Database
      Rights, without regard to how the rights are labeled or
-     categorized. For purposes of this Public License, the rights
-     specified in Section 2(b)(1)-(2) are not Copyright and Similar
-     Rights.
+     categorized. For purposes of this License, the rights specified in
+     Section 2(b)(1)-(2) are not Copyright and Similar Rights.
 
   d. Effective Technological Measures means those measures that, in the
      absence of proper authority, may not be circumvented under laws
@@ -162,12 +161,12 @@ Section 1 -- Definitions.
      License.
 
   g. Licensed Rights means the rights granted to You subject to the
-     terms and conditions of this Public License, which are limited to
-     all Copyright and Similar Rights that apply to Your use of the
+     terms and conditions of this License, which are limited to all
+     Copyright and Similar Rights that apply to Your use of the
      Licensed Material and that the Licensor has authority to license.
 
   h. Licensor means the individual(s) or entity(ies) granting rights
-     under this Public License.
+     under this License.
 
   i. Share means to provide material to the public by any means or
      process that requires permission under the Licensed Rights, such
@@ -184,15 +183,15 @@ Section 1 -- Definitions.
      equivalent rights anywhere in the world.
 
   k. You means the individual or entity exercising the Licensed Rights
-     under this Public License. Your has a corresponding meaning.
+     under this License. Your has a corresponding meaning.
 
 
 Section 2 -- Scope.
 
   a. License grant.
 
-       1. Subject to the terms and conditions of this Public License,
-          the Licensor hereby grants You a worldwide, royalty-free,
+       1. Subject to the terms and conditions of this License, the
+          Licensor hereby grants You a worldwide, royalty-free,
           non-sublicensable, non-exclusive, irrevocable license to
           exercise the Licensed Rights in the Licensed Material to:
 
@@ -206,8 +205,7 @@ Section 2 -- Scope.
           License does not apply, and You do not need to comply with
           its terms and conditions.
 
-       3. Term. The term of this Public License is specified in Section
-          6(a).
+       3. Term. The term of this License is specified in Section 6(a).
 
        4. Media and formats; technical modifications allowed. The
           Licensor authorizes You to exercise the Licensed Rights in
@@ -217,9 +215,9 @@ Section 2 -- Scope.
           authority to forbid You from making technical modifications
           necessary to exercise the Licensed Rights, including
           technical modifications necessary to circumvent Effective
-          Technological Measures. For purposes of this Public License,
-          simply making modifications authorized by this Section 2(a)
-          (4) never produces Adapted Material.
+          Technological Measures. For purposes of this License, simply
+          making modifications authorized by this Section 2(a) (4)
+          never produces Adapted Material.
 
        5. Downstream recipients.
 
@@ -227,7 +225,7 @@ Section 2 -- Scope.
                recipient of the Licensed Material automatically
                receives an offer from the Licensor to exercise the
                Licensed Rights under the terms and conditions of this
-               Public License.
+               License.
 
             b. Additional offer from the Licensor -- Adapted Material.
                Every recipient of Adapted Material from You
@@ -242,25 +240,25 @@ Section 2 -- Scope.
                Licensed Rights by any recipient of the Licensed
                Material.
 
-       6. No endorsement. Nothing in this Public License constitutes or
-          may be construed as permission to assert or imply that You
-          are, or that Your use of the Licensed Material is, connected
-          with, or sponsored, endorsed, or granted official status by,
-          the Licensor or others designated to receive attribution as
+       6. No endorsement. Nothing in this License constitutes or may be
+          construed as permission to assert or imply that You are, or
+          that Your use of the Licensed Material is, connected with, or
+          sponsored, endorsed, or granted official status by, the
+          Licensor or others designated to receive attribution as
           provided in Section 3(a)(1)(A)(i).
 
   b. Other rights.
 
        1. Moral rights, such as the right of integrity, are not
-          licensed under this Public License, nor are publicity,
-          privacy, and/or other similar personality rights; however, to
-          the extent possible, the Licensor waives and/or agrees not to
+          licensed under this License, nor are publicity, privacy,
+          and/or other similar personality rights; however, to the
+          extent possible, the Licensor waives and/or agrees not to
           assert any such rights held by the Licensor to the limited
           extent necessary to allow You to exercise the Licensed
           Rights, but not otherwise.
 
        2. Patent and trademark rights are not licensed under this
-          Public License.
+          License.
 
        3. To the extent possible, the Licensor waives any right to
           collect royalties from You for the exercise of the Licensed
@@ -294,7 +292,7 @@ following conditions.
                iii. a URI or hyperlink to the Licensed Material to the
                     extent reasonably practicable;
 
-                iv. a notice that refers to this Public License;
+                iv. a notice that refers to this License;
 
                  v. a notice that refers to the disclaimer of
                     warranties;
@@ -303,8 +301,8 @@ following conditions.
                retain an indication of any previous modifications; and
 
             c. indicate the Licensed Material is licensed under this
-               Public License, and include the text of, or the URI or
-               hyperlink to, this Public License.
+               License, and include the text of, or the URI or
+               hyperlink to, this License.
 
        2. You may satisfy the conditions in Section 3(a)(1) in any
           reasonable manner based on the medium, means, and context in
@@ -332,7 +330,7 @@ following conditions.
           Share Adapted Material.
 
        2. The Adapter's License You apply must be the Esoteric
-          Foundation Public License, this version or later.
+          Foundation License, this version or later.
 
        3. You must include the text of, or the URI or hyperlink to, the
           Adapter's License You apply. You may satisfy this condition
@@ -370,8 +368,8 @@ apply to Your use of the Licensed Material:
      all or a substantial portion of the contents of the database.
 
 For the avoidance of doubt, this Section 4 supplements and does not
-replace Your obligations under this Public License where the Licensed
-Rights include other Copyright and Similar Rights.
+replace Your obligations under this License where the Licensed Rights
+include other Copyright and Similar Rights.
 
 
 Section 5 -- Disclaimer of Warranties and Limitation of Liability.
@@ -391,11 +389,11 @@ Section 5 -- Disclaimer of Warranties and Limitation of Liability.
      YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION,
      NEGLIGENCE) OR OTHERWISE FOR ANY DIRECT, SPECIAL, INDIRECT,
      INCIDENTAL, CONSEQUENTIAL, PUNITIVE, EXEMPLARY, OR OTHER LOSSES,
-     COSTS, EXPENSES, OR DAMAGES ARISING OUT OF THIS PUBLIC LICENSE OR
-     USE OF THE LICENSED MATERIAL, EVEN IF THE LICENSOR HAS BEEN
-     ADVISED OF THE POSSIBILITY OF SUCH LOSSES, COSTS, EXPENSES, OR
-     DAMAGES. WHERE A LIMITATION OF LIABILITY IS NOT ALLOWED IN FULL OR
-     IN PART, THIS LIMITATION MAY NOT APPLY TO YOU.
+     COSTS, EXPENSES, OR DAMAGES ARISING OUT OF THIS LICENSE OR USE OF
+     THE LICENSED MATERIAL, EVEN IF THE LICENSOR HAS BEEN ADVISED OF
+     THE POSSIBILITY OF SUCH LOSSES, COSTS, EXPENSES, OR DAMAGES. WHERE
+     A LIMITATION OF LIABILITY IS NOT ALLOWED IN FULL OR IN PART, THIS
+     LIMITATION MAY NOT APPLY TO YOU.
 
   c. The disclaimer of warranties and limitation of liability provided
      above shall be interpreted in a manner that, to the extent
@@ -405,10 +403,10 @@ Section 5 -- Disclaimer of Warranties and Limitation of Liability.
 
 Section 6 -- Term and Termination.
 
-  a. This Public License applies for the term of the Copyright and
-     Similar Rights licensed here. However, if You fail to comply with
-     this Public License, then Your rights under this Public License
-     terminate automatically.
+  a. This License applies for the term of the Copyright and Similar
+     Rights licensed here. However, if You fail to comply with this
+     License, then Your rights under this License terminate
+     automatically.
 
   b. Where Your right to use the Licensed Material has terminated under
      Section 6(a), it reinstates:
@@ -421,12 +419,12 @@ Section 6 -- Term and Termination.
 
      For the avoidance of doubt, this Section 6(b) does not affect any
      right the Licensor may have to seek remedies for Your violations
-     of this Public License.
+     of this License.
 
   c. For the avoidance of doubt, the Licensor may also offer the
      Licensed Material under separate terms or conditions or stop
      distributing the Licensed Material at any time; however, doing so
-     will not terminate this Public License.
+     will not terminate this License.
 
   d. Sections 1, 5, 6, 7, and 8 survive termination of this Public
      License.
@@ -439,39 +437,38 @@ Section 7 -- Other Terms and Conditions.
 
   b. Any arrangements, understandings, or agreements regarding the
      Licensed Material not stated herein are separate from and
-     independent of the terms and conditions of this Public License.
+     independent of the terms and conditions of this License.
 
 
 Section 8 -- Interpretation.
 
-  a. For the avoidance of doubt, this Public License does not, and
-     shall not be interpreted to, reduce, limit, restrict, or impose
-     conditions on any use of the Licensed Material that could lawfully
-     be made without permission under this Public License.
+  a. For the avoidance of doubt, this License does not, and shall not
+     be interpreted to, reduce, limit, restrict, or impose conditions
+     on any use of the Licensed Material that could lawfully be made
+     without permission under this License.
 
-  b. To the extent possible, if any provision of this Public License is
-     deemed unenforceable, it shall be automatically reformed to the
-     minimum extent necessary to make it enforceable. If the provision
-     cannot be reformed, it shall be severed from this Public License
-     without affecting the enforceability of the remaining terms and
+  b. To the extent possible, if any provision of this License is deemed
+     unenforceable, it shall be automatically reformed to the minimum
+     extent necessary to make it enforceable. If the provision cannot
+     be reformed, it shall be severed from this License without
+     affecting the enforceability of the remaining terms and
      conditions.
 
-  c. No term or condition of this Public License will be waived and no
-     failure to comply consented to unless expressly agreed to by the
-     Licensor.
+  c. No term or condition of this License will be waived and no failure
+     to comply consented to unless expressly agreed to by the Licensor.
 
-  d. Nothing in this Public License constitutes or may be interpreted
-     as a limitation upon, or waiver of, any privileges and immunities
-     that apply to the Licensor or You, including from the legal
-     processes of any jurisdiction or authority.
+  d. Nothing in this License constitutes or may be interpreted as a
+     limitation upon, or waiver of, any privileges and immunities that
+     apply to the Licensor or You, including from the legal processes
+     of any jurisdiction or authority.
 
 
 =======================================================================
 
-How to Apply This Public License to Your Work
+How to Apply This License to Your Work
 
-     Include a copy of the Public License in Your Work. If applicable,
-     in a file, typically called LICENSE.
+     Include a copy of the License in Your Work. If applicable, in a
+     file, typically called LICENSE.
 
      Attach the following notice to the Licensed Material. If
      applicable, in a file, typically called README or README.md, with
@@ -481,19 +478,19 @@ How to Apply This Public License to Your Work
      [Name of the Licensed Material] (the "Licensed Material")
      Copyright (C) [year] by [name of copyright owner] (the "Licensor")
      is licensed under the Esoteric Foundation Public License 1.1.0
-     (the "Public License").
+     (the "License").
 
      You may not use this Licensed Material except in compliance with
-     the Public License. You may obtain a copy of the Public License at
+     the License. You may obtain a copy of the License at
      https://esoteric.foundation/license.
 
 =======================================================================
 
-The Esoteric Foundation is not a party to its Public License.
-Notwithstanding, the Esoteric Foundation may elect to apply its Public
-License to material it publishes and in those instances will be
-considered the "Licensor". The text of the Esoteric Foundation Public
-License is licensed under the Esoteric Foundation Public License.
+The Esoteric Foundation is not a party to its License. Notwithstanding,
+the Esoteric Foundation may elect to apply its Public License to
+material it publishes and in those instances will be considered the
+"Licensor". The text of the Esoteric Foundation Public License is
+licensed under the Esoteric Foundation Public License.
 
 The Esoteric Foundation may be contacted at
 https://esoteric.foundation.
