@@ -45,9 +45,7 @@ You may not:
   b. Produce, use or Share Adapted Material without giving appropriate
      Attribution, as defined in the License below.
 
-  c. Produce Adapted Material and not Share files involved in the
-     creation of the Adapted Material. In other words, make the Adapted
-     Material 'closed source'.
+  c. Produce non-Open Source Adapted Material.
 
   d. Produce Adapted Material where the Adapter's License (Your
      license) is not this License.
