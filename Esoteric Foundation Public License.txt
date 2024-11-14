@@ -161,8 +161,10 @@ Section 1 -- Definitions.
   h. Licensor means the individual(s) or entity(ies) granting rights
      under this License.
 
-  i. Open Source material means material whose Sources have been
-     Shared.
+  i. Open Source material means material whose Sources have been Shared
+     in a way that allows the public to access, modify, and
+     redistribute them, adhering to any relevant standards for
+     open-source licenses.
 
   j. Share means to provide material to the public by any means or
      process that requires permission under the Licensed Rights, such
