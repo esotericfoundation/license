@@ -8,7 +8,7 @@ Summary
 
 This Public License is a modified version of the CC BY-SA 4.0 license,
 which can be found here:
-https://www.creativecommons.org/licenses/by-nc-sa/4.0/deed.en
+https://www.creativecommons.org/licenses/by-sa/4.0/deed.en
 
 The main difference between this Public License and the CC BY-SA 4.0
 license is the requirement to Share all files involved in the creation
