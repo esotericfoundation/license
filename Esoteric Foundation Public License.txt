@@ -30,10 +30,7 @@ You may:
   a. Use and Share the Licensed Material, provided that You:
 
        1. give appropriate Attribution, as defined in the Public
-          License below; and
-
-       2. use or Share the Licensed Material for NonCommercial purposes
-          only.
+          License below.
 
   b. Produce, use and Share Adapted Material, provided that:
 
@@ -57,35 +54,26 @@ You may:
                include recognizable variations of, the name of the
                Licensed Material (which is encouraged); and
 
-       3. You produce, use or Share the Adapted Material for
-          NonCommercial purposes only.
-
 You may not:
 
   a. Use or Share the Licensed Material without giving appropriate
      Attribution, as defined in the Public License below.
 
-  b. Use or Share the Licensed Material for any kind of commercial
-     purposes.
-
-  c. Produce, use or Share Adapted Material without giving appropriate
+  b. Produce, use or Share Adapted Material without giving appropriate
      Attribution, as defined in the Public License below.
 
-  d. Produce Adapted Material and not Share files involved in the
+  c. Produce Adapted Material and not Share files involved in the
      creation of the Adapted Material. In other words, make the Adapted
      Material 'closed source'.
 
-  e. Produce Adapted Material where the Adapter's License (Your
+  d. Produce Adapted Material where the Adapter's License (Your
      license) is not this Public License.
 
-  f. Produce Adapted Material where the Adapter's License (Your
+  e. Produce Adapted Material where the Adapter's License (Your
      license) is an earlier version of this Public License.
 
-  g. Produce Adapted Material with the exact same name as the Licensed
+  f. Produce Adapted Material with the exact same name as the Licensed
      Material.
-
-  h. Produce, use or Share Adapted Material for any kind of commercial
-     purposes.
 
 =======================================================================
 
