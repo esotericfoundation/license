@@ -11,7 +11,7 @@ general-purpose license.
 
 This License is a modified version of the CC BY-SA 4.0 license, changed
 to require Adapted Material to be Open Source. The CC BY-SA 4.0 license
-can be found here: https://www.creativecommons.org/licenses/by-sa/4.0.
+can be found here: https://creativecommons.org/licenses/by-sa/4.0.
 
 Esoteric Foundation Public License Summary
 
