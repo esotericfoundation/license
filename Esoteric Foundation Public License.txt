@@ -6,6 +6,9 @@ Copyright (C) 2024 Esoteric Foundation <https://esoteric.foundation>
 
 Summary
 
+The Esoteric Foundation Public License is a free, copyleft
+general-purpose license.
+
 This Public License is a modified version of the CC BY-SA 4.0 license,
 which can be found here:
 https://www.creativecommons.org/licenses/by-sa/4.0/deed.en
