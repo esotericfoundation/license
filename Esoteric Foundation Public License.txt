@@ -13,12 +13,6 @@ This License is a modified version of the CC BY-SA 4.0 license, changed
 to require Adapted Material to be Open Source. The CC BY-SA 4.0 license
 can be found here: https://www.creativecommons.org/licenses/by-sa/4.0.
 
-Note that the points under "Esoteric Foundation Public License Summary"
-is only a summary of the Public License and do not form part of the
-Public License itself.
-
-Please read and understand the entire Public License.
-
 Esoteric Foundation Public License Summary
 
 You may:
