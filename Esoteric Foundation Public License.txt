@@ -321,14 +321,8 @@ following conditions.
      In addition to the conditions in Section 3(a), if You Share
      Adapted Material You produce, the following conditions also apply.
 
-       1. You must include the URI or hyperlink to any files involved
-          in the creation of the Adapted Material, preferably in the
-          form of a Git repository, and ideally in the form of a GitHub
-          repository, and if applicable, as a fork of the Licensed
-          Material. In other words, the Adapted Material must be 'open
-          source'. You may satisfy this condition in any reasonable
-          manner based on the medium, means, and context in which You
-          Share Adapted Material.
+       1. Your Adapted Material must be Open Source and you must
+          provide the URI or hyperlink to Your Sources.
 
        2. The Adapter's License You apply must be the Esoteric
           Foundation License, this version or later.
