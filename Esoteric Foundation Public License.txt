@@ -225,10 +225,9 @@ Section 2 -- Scope.
           exercise the Licensed Rights in the Licensed Material to:
 
             a. reproduce and Share the Licensed Material, in whole or
-               in part, for NonCommercial purposes only; and
+               in part; and
 
-            b. produce, reproduce, and Share Adapted Material for
-               NonCommercial purposes only.
+            b. produce, reproduce, and Share Adapted Material.
 
        2. Exceptions and Limitations. For the avoidance of doubt, where
           Exceptions and Limitations apply to Your use, this Public
