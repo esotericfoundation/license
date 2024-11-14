@@ -27,12 +27,7 @@ You may:
 
        2. If You produce Adapted Material, You:
 
-            a. Share a link to all files involved in the creation of
-               the Adapted Material, preferably in the form of a Git
-               repository, and ideally in the form of a GitHub
-               repository, and if applicable, as a fork of the Licensed
-               Material. In other words, the Adapted Material must be
-               'open source';
+            a. make the Adapted Material Open Source;
 
             b. use this License (this version or later) as the
                Adapter's License (Your license);
