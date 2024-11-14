@@ -6,18 +6,18 @@ Copyright (C) 2024 Esoteric Foundation <https://esoteric.foundation>
 
 Summary
 
-This Public License is a modified version of the CC BY-NC-SA 4.0
+This Public License is a modified version of the CC BY-SA 4.0
 license, which can be found here:
 https://www.creativecommons.org/licenses/by-nc-sa/4.0/deed.en
 
-The main difference between this Public License and the CC BY-NC-SA 4.0
+The main difference between this Public License and the CC BY-SA 4.0
 license is the requirement to Share all files involved in the creation
 of Adapted Material, preferably in the form of a Git repository, and
 ideally in the form of a GitHub repository, and if applicable, as a
 fork of the Licensed Material, in other words, a requirement for
 Adapted Material to be 'open source'.
 
-All differences between this Public License and the CC BY-NC-SA 4.0
+All differences between this Public License and the CC BY-SA 4.0
 license can be seen here:
 https://www.github.com/EsotericFoundation/license/compare/0.0.1...main
 
