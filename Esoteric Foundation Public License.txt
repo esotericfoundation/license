@@ -10,7 +10,7 @@ The Esoteric Foundation Public License is a free, copyleft
 general-purpose license.
 
 This License is a modified version of the CC BY-SA 4.0 license, changed
-to require Adapted Material to be Open Source. The CC BY-SA 4.0 license
+to require Adapted Material to be Open-Source. The CC BY-SA 4.0 license
 can be found here: https://creativecommons.org/licenses/by-sa/4.0.
 
 Esoteric Foundation Public License Summary
@@ -27,7 +27,7 @@ You may:
 
        2. If You produce Adapted Material, You:
 
-            a. make the Adapted Material Open Source;
+            a. make the Adapted Material Open-Source;
 
             b. use this License (this version or later) as the
                Adapter's License (Your license);
@@ -45,7 +45,7 @@ You may not:
   b. Produce, use or Share Adapted Material without giving appropriate
      Attribution, as defined in the License below.
 
-  c. Produce non-Open Source Adapted Material.
+  c. Produce non-Open-Source Adapted Material.
 
   d. Produce Adapted Material where the Adapter's License (Your
      license) is not this License.
@@ -161,7 +161,7 @@ Section 1 -- Definitions.
   h. Licensor means the individual(s) or entity(ies) granting rights
      under this License.
 
-  i. Open Source material means material whose Sources have been Shared
+  i. Open-Source material means material whose Sources have been Shared
      in a way that allows the public to access and redistribute them,
      adhering to any relevant standards for open-source licenses.
 
@@ -320,7 +320,7 @@ following conditions.
      In addition to the conditions in Section 3(a), if You Share
      Adapted Material You produce, the following conditions also apply.
 
-       1. Your Adapted Material must be Open Source and you must
+       1. Your Adapted Material must be Open-Source and you must
           provide the URI or hyperlink to Your Sources.
 
        2. The Adapter's License You apply must be the Esoteric
