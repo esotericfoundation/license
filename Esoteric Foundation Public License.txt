@@ -321,7 +321,11 @@ following conditions.
      Adapted Material You produce, the following conditions also apply.
 
        1. Your Adapted Material must be Open-Source and you must
-          provide the URI or hyperlink to Your Sources.
+          provide the URI or hyperlink to Your Sources. In the case
+          that the Licensed Material is a Git repository, Your Adapted
+          Material must also be a Git repository, as well as a fork of
+          the Licensed Material. This is for the purpose of upholding
+          consistency and good standards.
 
        2. The Adapter's License You apply must be the Esoteric
           Foundation License, this version or later.
