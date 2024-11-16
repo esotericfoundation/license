@@ -1,4 +1,4 @@
-Esoteric Foundation Public License 1.1.1
+Esoteric Foundation Public License 1.1.2
 
 Copyright (C) 2024 Esoteric Foundation <https://esoteric.foundation>
 
@@ -475,7 +475,7 @@ How to Apply This License to Your Work
 
      [Name of the Licensed Material] (the "Licensed Material")
      Copyright (C) [year] by [name of copyright owner] (the "Licensor")
-     is licensed under the Esoteric Foundation Public License 1.1.1
+     is licensed under the Esoteric Foundation Public License 1.1.2
      (the "License").
 
      You may not use this Licensed Material except in compliance with
