@@ -1,0 +1,67 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Esoteric Foundation Public License
+message: >-
+  If you need to cite our public license, please do it as
+  specified in this file.
+type: software
+authors:
+  - name: Esoteric Foundation
+    email: foundationesoteric@gmail.com
+    alias: EF
+    website: 'https://esoteric.foundation'
+  - name: Esoteric Enderman
+    alias: EE
+    website: 'https://enderman.dev'
+    email: esotericenderman@gmail.com
+    orcid: 'https://orcid.org/0009-0007-4990-9556'
+identifiers:
+  - type: url
+    value: 'https://github.com/EsotericFoundation/license'
+    description: >-
+      The link to the GitHub repository of the Esoteric
+      Foundation Public License.
+repository-code: 'https://github.com/EsotericFoundation/license'
+url: >-
+  https://github.com/EsotericFoundation/license?tab=readme-ov-file
+repository-artifact: 'https://github.com/EsotericFoundation/license/releases'
+abstract: >
+  The Esoteric Foundation Public License is a free, copyleft
+
+  general-purpose license, with terms and conditions that
+  also enforce
+
+  professional standards and consistency amongst Adapted
+  Material.
+
+
+  The Esoteric Foundation uses this License for almost all,
+  if not all,
+
+  material that we publish.
+
+
+  This License is a modified version of the CC BY-SA 4.0
+  license, changed
+
+  to require Adapted Material to be Open-Source, along with
+  a few other
+
+  requirements. The CC BY-SA 4.0 license can be found here:
+
+  https://creativecommons.org/licenses/by-sa/4.0.
+keywords:
+  - license
+  - legal
+  - free
+  - copyleft
+  - copyright
+  - document
+  - esoteric
+  - foundation
+  - public
+commit: 43a161e276f7458fa2b0af233ebff23ec3756247
+version: 1.1.5
+date-released: '2024-11-17'
