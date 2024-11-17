@@ -69,29 +69,36 @@ entire License.
 The Esoteric Foundation organisation ("Esoteric Foundation") is not a
 law firm and does not provide legal services or legal advice.
 Distribution of this License does not create a lawyer-client or other
-relationship. The Esoteric Foundation makes its License and related
-information available on an "as-is" basis. The Esoteric Foundation
-gives no warranties regarding its License, any Licensed Material, or
-any related information. The Esoteric Foundation disclaims all
-liability for damages resulting from the use of its License to the
-fullest extent possible.
+relationship.
+
+The Esoteric Foundation makes its License and related information
+available on an "as-is" basis. The Esoteric Foundation gives no
+warranties regarding its License, any Licensed Material, or any related
+information.
+
+The Esoteric Foundation disclaims all liability for damages resulting
+from the use of its License to the fullest extent possible.
 
 Using the Esoteric Foundation Public License
 
 The Esoteric Foundation Public License provides a standard set of terms
 and conditions that creators and other rights holders may use to share
 original works of authorship and other material subject to copyright
-and certain other rights specified in the License below. The following
-considerations are for informational purposes only, are not exhaustive,
-and do not form part of our License.
+and certain other rights specified in the License below.
+
+The following considerations are for informational purposes only, are
+not exhaustive, and do not form part of our License.
 
      Considerations for licensors: Our License is intended for use by
      those authorized to give the public permission to use material in
      ways otherwise restricted by copyright and certain other rights.
-     Our License is irrevocable. Licensors should read and understand
-     the terms and conditions of the License before applying it.
-     Licensors should also secure all rights necessary before applying
-     our License so that the public can reuse the material as expected.
+     Our License is irrevocable.
+
+     Licensors should read and understand the terms and conditions of
+     the License before applying it. Licensors should also secure all
+     rights necessary before applying our License so that the public
+     can reuse the material as expected.
+
      Licensors should clearly mark any material not subject to the
      License. This includes material used under an Exception or
      Limitation to copyright.
@@ -101,14 +108,18 @@ and do not form part of our License.
      specified terms and conditions. If the Licensor's permission is
      not necessary for any reason--for example, because of any
      applicable Exception or Limitation to copyright--then that use is
-     not regulated by the License. Our License grants only permissions
-     under copyright and certain other rights that a Licensor has
-     authority to grant. Use of the Licensed Material may still be
-     restricted for other reasons, including because others have
-     copyright or other rights in the material. A Licensor may make
-     special requests, such as asking that all changes be marked or
-     described. Although not required by our License, you are
-     encouraged to respect those requests where reasonable.
+     not regulated by the License.
+
+     Our License grants only permissions under copyright and certain
+     other rights that a Licensor has authority to grant. Use of the
+     Licensed Material may still be restricted for other reasons,
+     including because others have copyright or other rights in the
+     material.
+
+     A Licensor may make special requests, such as asking that all
+     changes be marked or described. Although not required by our
+     License, you are encouraged to respect those requests where
+     reasonable.
 
 =======================================================================
 
@@ -116,12 +127,13 @@ Esoteric Foundation Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree
 to be bound by the terms and conditions of the Esoteric Foundation
-Public License (the "License"). To the extent that the Public License
-may be interpreted as a contract, You are granted the Licensed Rights
-in consideration of Your acceptance of these terms and conditions, and
-the Licensor grants You such rights in consideration of benefits the
-Licensor receives from making the Licensed Material available under
-these terms and conditions.
+Public License (the "License").
+
+To the extent that the Public License may be interpreted as a contract,
+You are granted the Licensed Rights in consideration of Your acceptance
+of these terms and conditions, and the Licensor grants You such rights
+in consideration of benefits the Licensor receives from making the
+Licensed Material available under these terms and conditions.
 
 
 Section 1 -- Definitions.
@@ -131,10 +143,12 @@ Section 1 -- Definitions.
      in which the Licensed Material is translated, altered, arranged,
      transformed, or otherwise modified or interacted with in a manner
      requiring permission under the Copyright and Similar Rights held
-     by the Licensor. For purposes of this License, where the Licensed
-     Material is a musical work, performance, or sound recording,
-     Adapted Material is always produced where the Licensed Material is
-     synched in timed relation with a moving image.
+     by the Licensor.
+
+     For purposes of this License, where the Licensed Material is a
+     musical work, performance, or sound recording, Adapted Material is
+     always produced where the Licensed Material is synched in timed
+     relation with a moving image.
 
   b. Adapter's License means the license You apply to Your Copyright
      and Similar Rights in Your contributions to Adapted Material in
@@ -219,14 +233,17 @@ Section 2 -- Scope.
        4. Media and formats; technical modifications allowed. The
           Licensor authorizes You to exercise the Licensed Rights in
           all media and formats whether now known or hereafter created,
-          and to make technical modifications necessary to do so. The
-          Licensor waives and/or agrees not to assert any right or
+          and to make technical modifications necessary to do so.
+
+          The Licensor waives and/or agrees not to assert any right or
           authority to forbid You from making technical modifications
           necessary to exercise the Licensed Rights, including
           technical modifications necessary to circumvent Effective
-          Technological Measures. For purposes of this License, simply
-          making modifications authorized by this Section 2(a) (4)
-          never produces Adapted Material.
+          Technological Measures.
+
+          For purposes of this License, simply making modifications
+          authorized by this Section 2(a) (4) never produces Adapted
+          Material.
 
        5. Downstream recipients.
 
@@ -330,15 +347,17 @@ following conditions.
      Adapted Material You produce, the following conditions also apply.
 
        1. Your Adapted Material must be Open-Source and you must
-          provide the URI or hyperlink to Your Sources. In the case
-          that the Licensed Material is a Git repository, Your Adapted
-          Material must also be a Git repository, as well as a fork of
-          the Licensed Material if applicable. If your Adapted Material
-          incorporates the Sources of the Licensed Material into a
-          larger file structure, it must be done through Git
-          submodules, rather than copying the files directly. This is
-          for the purpose of upholding consistency, organisation and
-          professional standards.
+          provide the URI or hyperlink to Your Sources.
+
+          In the case that the Licensed Material is a Git repository,
+          Your Adapted Material must also be a Git repository, as well
+          as a fork of the Licensed Material if applicable.
+
+          If your Adapted Material incorporates the Sources of the
+          Licensed Material into a larger file structure, it must be
+          done through Git submodules, rather than copying the files
+          directly. This is for the purpose of upholding consistency,
+          organisation and professional standards.
 
        2. The Adapter's License You apply must be the Esoteric
           Foundation License, this version or later.
@@ -356,9 +375,11 @@ following conditions.
        5. For the purpose of avoiding confusion, the name you choose
           for Your Adapted Material must be recognizably different to,
           and easily differentiable from, the name of the Licensed
-          Material. If for any reason the Licensed Material is
-          prohibited from using a certain name, the statement above
-          applies to that name also.
+          Material.
+
+          If for any reason the Licensed Material is prohibited from
+          using a certain name, the statement above applies to that
+          name also.
 
 
 Section 4 -- Sui Generis Database Rights.
