@@ -349,8 +349,8 @@ following conditions.
           for Your Adapted Material must be recognizably different to,
           and easily differentiable from, the name of the Licensed
           Material. If for any reason the Licensed Material is
-          prohibited from using a certain name, the Adapted Material is
-          automatically also prohibited from using that name.
+          prohibited from using a certain name, the statement above
+          applies to that name also.
 
 
 Section 4 -- Sui Generis Database Rights.
