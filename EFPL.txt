@@ -35,7 +35,7 @@ You may:
             a. make the Adapted Material Open-Source;
 
             b. use this License (this version or later) as the
-               Adapter's License (Your license);
+               Adapter's License (Your license); and
 
             c. refer to the Adapted Material with a name that is
                distinct from the name of the Licensed Material, but may
