@@ -1,4 +1,4 @@
-Esoteric Foundation Public License 1.1.5
+Esoteric Foundation Public License 1.1.6
 
 Copyright (C) 2024 Esoteric Foundation <https://esoteric.foundation>
 
@@ -354,10 +354,11 @@ following conditions.
           as a fork of the Licensed Material if applicable.
 
           If your Adapted Material incorporates the Sources of the
-          Licensed Material into a larger file structure, it must be
-          done through Git submodules, rather than copying the files
-          directly. This is for the purpose of upholding consistency,
-          organisation and professional standards.
+          Licensed Material into a larger file structure, we highly
+          recommend that it is not done by copying the files directly.
+          Instead, we recommend using tools such as Git submodules for
+          the purpose of upholding consistency, organisation,
+          modularity and professional standards.
 
        2. The Adapter's License You apply must be the Esoteric
           Foundation License, this version or later.
@@ -510,12 +511,15 @@ How to Apply This License to Your Work
 
      [Name of the Licensed Material] (the "Licensed Material")
      Copyright (C) [year] by [name of copyright owner] (the "Licensor")
-     is licensed under the Esoteric Foundation Public License 1.1.5
+     is licensed under the Esoteric Foundation Public License 1.1.6
      (the "License").
 
      You may not use this Licensed Material except in compliance with
      the License. You may obtain a copy of the License at
      https://esoteric.foundation/license.
+
+You may look at our projects at https://github.com/EsotericFoundation
+for examples of applying the License to Your work.
 
 =======================================================================
 
