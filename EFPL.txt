@@ -57,8 +57,8 @@ You may not:
   e. Produce Adapted Material where the Adapter's License (Your
      license) is an earlier version of this License; or
 
-  f. Produce Adapted Material with the exact same name as the Licensed
-     Material.
+  f. Produce Adapted Material with a name that may be confused with the
+     name of the Licensed Material.
 
 =======================================================================
 
