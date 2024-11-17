@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.6
+
+- Updated wording.
+- Changed a requirement to a recommendation.
+
+**Full Changelog**: https://github.com/EsotericFoundation/license/compare/1.1.5...1.1.6
+
 ## 1.1.5
 
 - Updated formatting.
