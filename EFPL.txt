@@ -179,7 +179,8 @@ Section 1 -- Definitions.
      individually chosen by them.
 
   k. Sources means all files involved in the creation of the Licensed
-     Material or Adapted Material.
+     Material or Adapted Material, as well as the Licensed Material or
+     Adapted Material itself.
 
   l. Sui Generis Database Rights means rights other than copyright
      resulting from Directive 96/9/EC of the European Parliament and of
