@@ -16,4 +16,8 @@ See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for our code of conduct.
 
 ## License
 
-The text of the Esoteric Foundation Public License, as well as all other contents of this [repository](https://github.com/EsotericFoundation/license) are licensed under the [Esoteric Foundation Public License](./LICENSE).
+<sup>The [Esoteric Foundation Public License](https://github.com/EsotericFoundation/license)[^1] Copyright &copy; 2024 by the [Esoteric Foundation](https://github.com/EsotericFoundation)[^2] is licensed under the [Esoteric Foundation Public License 1.1.5](./LICENSE)[^3].</sup>
+
+[^1]: This Git repository and all of its contents and commits, past, present, and future. (The "Licensed Material")
+[^2]: The "Licensor"
+[^3]: The "Public License"
