@@ -45,18 +45,18 @@ You may:
 You may not:
 
   a. Use or Share the Licensed Material without giving appropriate
-     Attribution, as defined in the License below.
+     Attribution, as defined in the License below;
 
   b. Produce, use or Share Adapted Material without giving appropriate
-     Attribution, as defined in the License below.
+     Attribution, as defined in the License below;
 
-  c. Produce non-Open-Source Adapted Material.
+  c. Produce non-Open-Source Adapted Material;
 
   d. Produce Adapted Material where the Adapter's License (Your
-     license) is not this License.
+     license) is not this License;
 
   e. Produce Adapted Material where the Adapter's License (Your
-     license) is an earlier version of this License.
+     license) is an earlier version of this License; or
 
   f. Produce Adapted Material with the exact same name as the Licensed
      Material.
