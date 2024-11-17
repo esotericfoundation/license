@@ -28,7 +28,7 @@ You may:
   b. Produce, use and Share Adapted Material, provided that:
 
        1. You give appropriate Attribution, as defined in the Public
-          License below;
+          License below; and
 
        2. If You produce Adapted Material, You:
 
