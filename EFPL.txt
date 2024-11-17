@@ -23,7 +23,7 @@ Esoteric Foundation Public License Summary
 You may:
 
   a. Use and Share the Licensed Material, provided that You give
-     appropriate Attribution, as defined in the License below.
+     appropriate Attribution, as defined in the License below; and
 
   b. Produce, use and Share Adapted Material, provided that:
 
