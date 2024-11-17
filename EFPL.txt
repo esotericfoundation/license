@@ -378,8 +378,8 @@ following conditions.
           Material.
 
           If for any reason the Licensed Material is prohibited from
-          using a certain name, the statement above applies to that
-          name also.
+          being published under a certain name, the statement above
+          applies to that name also.
 
 
 Section 4 -- Sui Generis Database Rights.
