@@ -348,7 +348,7 @@ following conditions.
        5. For the purpose of avoiding confusion, the name you choose
           for Your Adapted Material must be recognizably different to,
           and easily differentiable from, the name of the Licensed
-          Material
+          Material.
 
 
 Section 4 -- Sui Generis Database Rights.
