@@ -355,10 +355,10 @@ following conditions.
 
           If your Adapted Material incorporates the Sources of the
           Licensed Material into a larger file structure, we highly
-          recommend that it is not by done by copying the files
-          directly. Instead, we recommend using tools such as Git
-          submodules for the purpose of upholding consistency,
-          organisation, modularity and professional standards.
+          recommend that it is not done by copying the files directly.
+          Instead, we recommend using tools such as Git submodules for
+          the purpose of upholding consistency, organisation,
+          modularity and professional standards.
 
        2. The Adapter's License You apply must be the Esoteric
           Foundation License, this version or later.
