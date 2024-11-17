@@ -38,9 +38,8 @@ You may:
                Adapter's License (Your license); and
 
             c. refer to the Adapted Material with a name that is
-               distinct from the name of the Licensed Material, but may
-               include recognizable variations of, the name of the
-               Licensed Material (which is encouraged).
+               noticeably different and easy to differentiate from the
+               name of the Licensed Material.
 
 You may not:
 
