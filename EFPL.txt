@@ -518,7 +518,7 @@ How to Apply This License to Your Work
      https://esoteric.foundation/license.
 
 You may look at our projects at https://github.com/EsotericFoundation
-for examples on applying the License to Your work.
+for examples of applying the License to Your work.
 
 =======================================================================
 
