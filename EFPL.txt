@@ -517,6 +517,9 @@ How to Apply This License to Your Work
      the License. You may obtain a copy of the License at
      https://esoteric.foundation/license.
 
+You may look at our projects at https://github.com/EsotericFoundation
+for examples on applying the License to Your work.
+
 =======================================================================
 
 The Esoteric Foundation is not a party to its License. Notwithstanding,
