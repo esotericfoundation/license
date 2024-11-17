@@ -60,6 +60,10 @@ You may not:
   f. Produce Adapted Material with a name that may be confused with the
      name of the Licensed Material.
 
+Note that the above points are only a summary of the License, and do
+not form part of the License itself. Please read and understand the
+entire License.
+
 =======================================================================
 
 The Esoteric Foundation organisation ("Esoteric Foundation") is not a
