@@ -354,10 +354,11 @@ following conditions.
           as a fork of the Licensed Material if applicable.
 
           If your Adapted Material incorporates the Sources of the
-          Licensed Material into a larger file structure, it must be
-          done through Git submodules, rather than copying the files
-          directly, if applicable. This is for the purpose of upholding
-          consistency, organisation and professional standards.
+          Licensed Material into a larger file structure, we highly
+          recommend that it be done through Git submodules, rather than
+          copying the files directly, if applicable. This is for the
+          purpose of upholding consistency, organisation and
+          professional standards.
 
        2. The Adapter's License You apply must be the Esoteric
           Foundation License, this version or later.
