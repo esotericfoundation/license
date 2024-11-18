@@ -64,6 +64,8 @@ Note that the above points are only a summary of the License, and do
 not form part of the License itself. Please read and understand the
 entire License.
 
+More information can be found at https://esoteric.foundation/license.
+
 =======================================================================
 
 The Esoteric Foundation organisation ("Esoteric Foundation") is not a
