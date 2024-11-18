@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.7
+
+- Updated wording.
+- Added link to the website
+
+**Full Changelog**: https://github.com/EsotericFoundation/license/compare/1.1.6...1.1.7
+
 ## 1.1.6
 
 - Updated wording.
