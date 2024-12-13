@@ -4,7 +4,7 @@
 
 [![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
 
-> The Public License used in all of our projects.
+> The Public License that was planned to be used in all of our projects.
 
 This [repository](https://github.com/EsotericFoundation/license) contains our [Public License](./Esoteric%20Foundation%20Public%20License.txt), which is designed to give everyone certain rights to use and expand on our Licensed Material with some terms and conditions.
 
