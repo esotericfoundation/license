@@ -6,7 +6,7 @@
 
 > The Public License that was planned to be used in all of our projects.
 
-This [repository](https://github.com/EsotericFoundation/license) contains our [Public License](./Esoteric%20Foundation%20Public%20License.txt), which is designed to give everyone certain rights to use and expand on our Licensed Material with some terms and conditions.
+This [repository](https://github.com/EsotericFoundation/license) contains our [Public License](./EFPL.txt), which is designed to give everyone certain rights to use and expand on our Licensed Material with some terms and conditions.
 
 > [!NOTE]
 > This project has been abandoned, and other licenses will be used instead.
